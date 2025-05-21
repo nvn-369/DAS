@@ -42,6 +42,8 @@ Upon powering up the system, the LPC2129 microcontroller initializes all periphe
 
 The system cycles this process in a loop, providing a live, time-stamped feed of environmental parameters.
 
+### 📊 Block Diagram  
+![Block Diagram](https://raw.githubusercontent.com/nvn-369/DAS/main/block.png)
 
 ### 🔧 Hardware Setup  
 ![DAS Board Setup](https://raw.githubusercontent.com/nvn-369/DAS/main/DAS_board.jpg)
